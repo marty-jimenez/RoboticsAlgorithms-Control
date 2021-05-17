@@ -2,6 +2,6 @@
 ### U. of Illinois, Chicago
 ### ECE 452: Spring 2021
 
-**Project 1:** Tasked with creating two basic movement programs for the robot. The first task being going to a point, and the second task being circumnavigating an object. 
+**Project 1:** Tasked with creating two basic movement programs. The first task being going to a point, and the second task being circumnavigating an object. 
 
 **Project 2:** Tasked with creating two navigation algorithms. The first being Bug 1; an extensive search algorithm for the goal point where the robot circumnavigates an object searching for the closest point to a certain goal. The second being Bug 2; a greedy search algorithm that goes to the first best option towards the goal point. 
